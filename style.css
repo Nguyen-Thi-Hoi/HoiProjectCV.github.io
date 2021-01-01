@@ -81,8 +81,7 @@
       margin: 5px;
       text-align: center;
     }
-      
-    
+        
     a .fab {
       color:white;
    
@@ -168,20 +167,12 @@
     
   }
   .list-contact p {
-    font-family:'FontAwesome';
+    font-family:'Raleway';
     font-size: 18px;
     line-height: 1em;
 
   }
   
-  .footer {
-    padding: 1em 1.5em;
-    background: #A7B8BF;
-    color: white;
-    text-align: center;
-    font-size: 20px;
-    font-family:'FontAwesome';
-  }
     @media only screen and (max-width: 768px) {
       .experience {
         display: block;
